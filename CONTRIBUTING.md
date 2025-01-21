@@ -13,8 +13,7 @@ it in the form of code (it's fairly simple still), please see
 app/src/main/kotlin/dev/soupslurpr/appverifier/InternalVerificationInfoDatabase.kt for the database.
 
 If you need help with development or have questions it's recommended to join the AppVerifier room on matrix at
-https://matrix.to/#/#appverifier:matrix.org and ask for help there from [soupslurpr](https://github.com/soupslurpr),
-the lead developer.
+äq1the lead developer.
 
 Java code is not accepted, we will only use Kotlin and Rust if needed (this project is currently 100% Rust free).
 
