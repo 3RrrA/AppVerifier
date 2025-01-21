@@ -42,7 +42,7 @@ if you want to contribute.
 A fan of AppVerifier? You can donate to [soupslurpr](https://github.com/soupslurpr), the lead developer of AppVerifier to support their work on AppVerifier and their other open source projects. Thank you!
 
 [Monero](https://www.getmonero.org/) address:\
-`88rAaNowhaC8JG8NJDpcdRWr1gGVmtFPnHWPS9xXvqY44G4XKVi5hZMax2FQ6B8KAcMpzkeJAhNek8qMHZjjwvkEKuiyBKF`
+`88rAaNowhaC8JG8NJDpcdRWr1gGVmtFPnHWPS9xXvqY44G4XKVi5hZMax2FQ6B8KAcMpzkeJAhNek8qMHZjjwvkEKuiyBKF`uy
 
 The [Monero](https://www.getmonero.org/) address can also be found in the app's settings.
 
