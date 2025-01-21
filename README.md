@@ -5,6 +5,7 @@ It enables you to easily verify your apps with others!
 
 AppVerifier includes a database for verifying apps.\
 If an app isn't on the internal database yet, you can simply share the verification info to others and receive verification info from them and
+
 share the received verification info to AppVerifier and you will see the verification status.\
 AppVerifier does the heavy lifting for you 💪
 
