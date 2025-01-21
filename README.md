@@ -10,6 +10,7 @@ AppVerifier does the heavy lifting for you 💪
 
 ## Download
 
+
 AppVerifier is available on the [Accrescent](https://accrescent.app) app store and GitHub releases. [Accrescent](https://accrescent.app) is the recommended way to get AppVerifier as it is more secure than GitHub releases.\
 Click on the badge below to get it on [Accrescent](https://accrescent.app).
 
